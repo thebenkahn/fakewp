@@ -1,0 +1,8 @@
+# Ignore wp-content/uploads folder. This holds blog files unique to each server
+wp-content/uploads/*
+wp-content/uploads/
+
+dev-config.php
+prd-config.php
+
+wp-content/.*
